@@ -1,0 +1,6 @@
+TeamA: RCB (parik & gagan) | TeamB: CSK (ved & dhoni) | 9 - 6 | Result: RCB WON
+Match: rcb vs csk
+  rcb: Wins: 1 | Runs: 20
+  csk: Wins: 0 | Runs: 0
+  Result: rcb WON
+------------------------

@@ -1,0 +1,15 @@
+P1: parik | P2: mani | 6 - 3 | Result: parik WON
+P1: Parikshith B Bilchode | P2: Manasa H N | 5 - 4 | Result: Parikshith B Bilchode WON
+Parikshith B Bilchode vs Manasa H N | 0 - 1 | Result: Manasa H N WON
+Parik vs Bharat | 1 - 0 | Result: Parik WON
+parik vs mansa | 1 - 0 | Result: parik WON
+Match: parik\ vs mansa
+  parik\: Wins: 1 | Runs: 22
+  mansa: Wins: 0 | Runs: 8
+  Result: parik\ WON
+------------------------
+Match: Parik vs Manasa
+  Parik: Wins: 1 | Runs: 17
+  Manasa: Wins: 0 | Runs: 0
+  Result: Parik WON
+------------------------
