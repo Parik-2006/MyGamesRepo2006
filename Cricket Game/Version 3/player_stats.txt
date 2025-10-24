@@ -2,3 +2,7 @@ Player: panda | Matches: 1 | Wins: 0 | Losses: 0 | Ties: 1 | Runs: 0
 Player: panda | Matches: 2 | Wins: 0 | Losses: 1 | Ties: 1 | Runs: 1
 Player: panda | Matches: 3 | Wins: 1 | Losses: 1 | Ties: 1 | Runs: 7
 Player: Parikshith B Bilchode | Matches: 1 | Wins: 0 | Losses: 1 | Ties: 0 | Runs: 0
+Player: h | Matches: 1 | Wins: 0 | Losses: 1 | Ties: 0 | Runs: 0
+Player: l | Matches: 1 | Wins: 0 | Losses: 1 | Ties: 0 | Runs: 0
+Player: l | Matches: 2 | Wins: 0 | Losses: 1 | Ties: 1 | Runs: 0
+Player: l | Matches: 3 | Wins: 0 | Losses: 2 | Ties: 1 | Runs: 6
